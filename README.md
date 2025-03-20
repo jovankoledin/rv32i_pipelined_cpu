@@ -2,6 +2,6 @@
 
 ## To Run:
 1. While inside Linux environment with Icarus Verilog:
-'''
+```
 make
-'''
+```
