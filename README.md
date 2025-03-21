@@ -1,5 +1,5 @@
 # Simple rv32i pipelined RISC-V processor with hazard handling
-ECE 469 by professor Mark Oskin @UW 
+I built this as a class project in ECE 469 taught by professor Mark Oskin @UW 
 
 ## To Run:
 Inside Linux environment with Icarus Verilog:
